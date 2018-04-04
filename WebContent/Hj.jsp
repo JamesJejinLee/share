@@ -12,6 +12,6 @@
     <title>타이틀을 입력하세요</title> 
  </head>
  <body>
-	<h1> 화이팅 </h1>
+	<h1> 화이팅2 </h1>
  </body>
 </html>
